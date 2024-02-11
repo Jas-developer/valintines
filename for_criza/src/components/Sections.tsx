@@ -3,9 +3,7 @@ import { motion } from "framer-motion";
 export const Sentence_A = () => {
   return (
     <div className="bg-pink-400 w-[90%] rounded-tl-[50%] rounded-br-[50%] h-[100px] flex justify-center items-center">
-      <span className=" text-md md:text-3xl text-white">
-        Hi,cringe confession incoming HAHA
-      </span>
+      <span className=" text-md md:text-3xl text-white">Hi,HAHA</span>
     </div>
   );
 };
@@ -147,7 +145,7 @@ export const Sentence_H = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        I just find you attractive in many ways
+        I just want you to know that I find you attractive in many ways
       </span>
     </motion.div>
   );
@@ -169,27 +167,6 @@ export const Sentence_I = () => {
     >
       <span className="text-md md:text-3xl text-white">
         and that's it for now
-      </span>
-    </motion.div>
-  );
-};
-
-export const Song_Suggest = () => {
-  return (
-    <motion.div
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: false, amount: 0.5 }}
-      transition={{ duration: 1 }}
-      variants={{
-        hidden: { opacity: 0, x: -100 },
-        visible: { opacity: 1, x: 0 },
-      }}
-      className="bg-pink-400 text-md md:text-2xl text-white w-[90%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
-    >
-      <span>
-        "Oh ang isang ka tulad mo, Ay di na dapat pang pakawalan. Alam mo bang
-        pag naging tayo,araw-araw kitang liligawan🎶" <br /> -TJ Monterde
       </span>
     </motion.div>
   );

@@ -11,7 +11,6 @@ import {
   Sentence_G,
   Sentence_H,
   Sentence_I,
-  Song_Suggest,
 } from "./components/Sections";
 
 export default function App() {
@@ -82,12 +81,6 @@ export default function App() {
         className="w-full h-full bg-pink-500  flex justify-center items-center"
       >
         <Sentence_I />
-      </div>
-      <div
-        style={{ backgroundImage: `url(${background})` }}
-        className="w-full h-full bg-pink-500  flex justify-center items-center"
-      >
-        <Song_Suggest />
       </div>
       <div
         style={{ backgroundImage: `url(${background})` }}
