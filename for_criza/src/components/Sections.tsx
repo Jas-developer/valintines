@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export const Sentence_A = () => {
   return (
     <div className="bg-pink-400 w-[90%] rounded-tl-[50%] rounded-br-[50%] h-[100px] flex justify-center items-center">
-      <span className=" text-md md:text-3xl text-white">Hi,HAHA</span>
+      <span className=" text-md md:text-3xl text-white">Hi po,HAHA</span>
     </div>
   );
 };
@@ -83,8 +83,7 @@ export const Sentence_E = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        One of the reasons why I may admire you is I can see that you have your
-        priorities straight
+        I admire people having their priorities straight
       </span>
     </motion.div>
   );
@@ -105,7 +104,7 @@ export const Sentence_F = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        Keep doing that thing, madam.
+        Keep doing that, madam.
       </span>
     </motion.div>
   );
@@ -124,7 +123,7 @@ export const Sentence_G = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        I did not make this to pursue a relationship with you;
+        Btw, I did not make this cringy thing to pursue a relationship with you -_-
       </span>
     </motion.div>
   );
@@ -185,7 +184,7 @@ export const Cringe = () => {
       }}
       className="bg-pink-400 text-md md:text-2xl text-white w-[90%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
-      <span>Cringe😭AHAHA</span>
+      <span>Cringe😭AHAHA, Happy Valentines💖</span>
     </motion.div>
   );
 };
