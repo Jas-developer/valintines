@@ -43,7 +43,7 @@ export const Sentence_C = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        It's your pretty eyes' fault😾
+       Idk what to say tbh, hmm one thing is for sure u got my attention po
       </span>
     </motion.div>
   );
@@ -83,7 +83,7 @@ export const Sentence_E = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        I admire people having their priorities straight
+        Maybe, I admire people having their priorities straight. And you are one of those pips
       </span>
     </motion.div>
   );
@@ -104,7 +104,7 @@ export const Sentence_F = () => {
       className="bg-pink-400 w-[80%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
       <span className="text-md md:text-3xl text-white">
-        Keep doing that, madam.
+        That's so attractive.
       </span>
     </motion.div>
   );
@@ -184,7 +184,7 @@ export const Cringe = () => {
       }}
       className="bg-pink-400 text-md md:text-2xl text-white w-[90%] rounded-tl-[50%] rounded-br-[50%] h-[40%] p-8 flex justify-center items-center"
     >
-      <span>Cringe😭AHAHA, Happy Valentines💖</span>
+      <span>Cringe😭AHAHA,Anyhow Happy Valentines💖</span>
     </motion.div>
   );
 };
